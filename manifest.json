@@ -1,0 +1,12 @@
+{
+  "name": "Frame Translator",
+  "id": "frame-translator",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "networkAccess": {
+    "allowedDomains": ["https://api.mymemory.translated.net"],
+    "reasoning": "Access to MyMemory Translation API for text translation functionality"
+  }
+} 
