@@ -17,7 +17,7 @@ A Figma plugin that allows you to translate text content within frames between E
 
 1. Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/figma-frame-translator.git
+git clone https://github.com/divljak/figma-frame-translator.git
 cd figma-frame-translator
 ```
 
